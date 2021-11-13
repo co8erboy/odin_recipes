@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Philadelphia Classic Cheesecake</title>
+	</head>
+	<body>
+		<h1>Philadelphia Classic Cheesecake</h1>
+		<img src="https://imagesvc.meredithcorp.io/v3/jumpstartpure/image?url=https://static.onecms.io/wp-content/uploads/sites/43/2020/10/07/4560852_original.jpg&w=1280&h=720&q=90&c=cc" alt="Photo of finished philadelphia classic cheesecake">
+		<h2>Description</h2>
+		<p>A modern twist on a classic dessert.</p>
+		<h2>Ingredients</h2>
+        <ul>
+            <li> 1 ½ cups HONEY MAID Graham Cracker Crumbs </li>
+			<li> 3 tablespoons sugar </li>
+			<li> ⅓ cup butter or margarine, melted </li>
+			<li> 4 (8 ounce) packages PHILADELPHIA Cream Cheese, softened </li>
+			<li> 1 cup sugar </li>
+			<li> 1 teaspoon vanilla </li>
+			<li> 4 eggs</li>
+		</ul>
+        <h2>Steps</h2>
+		<ol>
+			<li>Preheat oven to 325 degrees F.</li>
+			<li>Mix crumbs, 3 tablespoons sugar and butter; press firmly onto bottom of pan.</li>
+			<li>Beat cream cheese, 1 cup sugar and vanilla with mixer until well blended. Add eggs, 1 at a time, mixing on low speed after each just until blended. Pour over crust.</li>
+			<li>55 min. or until center is almost set. Loosen cake from rim of pan; cool before removing rim. Refrigerate 4 hours.</li>
+		</ol>
+	</body>
+</html>
